@@ -1,7 +1,9 @@
 # iris-proj
 
 ## Intro
-Goal of the project is to build a machine learning model to predict the flowers, using the famous *iris* dataset.
+Goal of the project is to build a machine learning model using the xgboost algorithm to predict the flowers, using the  *iris* dataset.
+In addition to the model, a user would be able to submit requests with new data and get a prediction as a response.
+
 ## Materials
 
 ## Methods
